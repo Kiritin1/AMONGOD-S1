@@ -1,0 +1,20 @@
+{
+    "token": "NzY1MDExMDQyNTc3MTU0MDc4.X4OmDQ.t8cbHAP1QgP_A_GAffccTWcR4oY",
+    "password": "",
+    "prefix": ">",   
+    
+    "nitro_sniper": true, 
+    "giveaway_sniper": true,
+    "slotbot_sniper": false,
+    "privnote_sniper": false,
+
+    "stream_url": "https://discord.gg/9wZCfTPzpw",
+    "tts_language": "en",
+
+    "bitly_key": "bitly-key-here",
+    "cat_key": "cat-key-here",
+    "weather_key": "weather-key-here",
+    "cuttly_key": "cuttly-key-here"
+}
+
+
